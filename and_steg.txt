@@ -1,0 +1,76 @@
+1. Android Secret Message(Audio & Test) Transfer using Audio Stegnography.
+sensitivity.
+		Secret Message Transfer with Encryption & Encoding Techniques via mobile app.
+--> GuptSandesh
+Abhinava
+***Features***
+     1. Android app of one screen with below options,
+					i. Encryption\Decryption
+					ii. Encoding\Decoding
+					iii. Message Carrier Format (Image or Audio or Video)
+	 2. Application suitable for Android, Tablet & Watch(if possible).
+	 3. Web application to perform the same functionality.
+
+***Hardware Req***
+	H1. Andriod Mobile Phone.
+	H2. Tablet (Optional)
+***Software Req***
+    S1: Android OS.
+	S2:  IONIC FRAME WORK (UI Framework suitable to build app suitable for Android, Other Mobile OS & Tablet, Samsung Watch.)
+    S3: JAVA Framework to integrate code with android App.
+	S4: Web application.
+*** Dev Modules***
+	D1. Android App with UI Design.
+	D2. Encoding\Decoding Functionalities Integration with Mobile App.
+	D3. Packaging Mobile App and Deployment in Andriod Market.
+	D4. Providing Encryption\Decryption Functionalities.
+	D5. Packaging Mobile App and Deployment in Andriod Market.
+	D6. Updating of Encryption Algorithm.
+
+!!!!!! FREEZE DATES	!!!!!!!
+
+~~Modules~~		: D1,D2,D3	D4,D5,D6	
+	FD1. Req	: Aug 15	Aug 15
+	FD2. Design	: Aug 15	Aug 15
+	FD3. Develop: Sept15	Oct15
+	FD4. Test	: Sept15	Oct15
+	FD5. LIVE DT: 
+			    01Sept15  31Oct15
+				
+^^^References^^^
+---------------------------------------------------------------------------------------
+	IDEA:
+	    -->My Engg Project Extension. 
+Release 2:
+
+Provide user option to click picture and provide comment and share via whtsapp.
+
+Open received image via whtsapp in 
+
+	http://www.scientificpsychic.com/workbook/chapter2.htm
+
+	http://www.ncbi.nlm.nih.gov/pubmed/23734220
+	
+	https://developer.android.com/training/basics/firstapp/creating-project.html
+	http://developer.android.com/guide/components/fundamentals.html
+	
+LOGIN IMPL:
+
+http://www.tutorialspoint.com/android/android_login_screen.htm
+https://developers.google.com/identity/sign-in/android/start-integrating
+https://developers.google.com/+/mobile/android/sign-in?hl=en
+https://developers.google.com/+/mobile/android/samples/quickstart-android
+
+ACTION BAR
+
+https://developer.android.com/training/basics/actionbar/index.html
+http://developer.android.com/tools/support-library/features.html#v7-appcompat
+http://androidthon.info/how-to-add-action-bar-on-android-api-8-using-support-library/
+
+
+APP Support All Versions
+
+https://developer.android.com/tools/support-library/setup.html
+https://developer.android.com/training/basics/actionbar/setting-up.html	
+	
+----------------------------------------------------------------------------------------------------------
